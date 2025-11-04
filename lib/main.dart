@@ -31,6 +31,10 @@ import 'package:luc/widgets/auth_listener.dart';
 // Localization
 import 'package:flutter_localizations/flutter_localizations.dart';
 
+// Chatbot Imports
+import 'package:luc/pages/chatbot_page.dart';
+import 'package:luc/services/chatbot_service.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
@@ -51,6 +55,7 @@ void main() async {
           update: (context, auth, previous) =>
               previous!..updateAuthService(auth),
         ),
+        ChangeNotifierProvider(create: (_) => ChatbotService()),
       ],
       child: const LucApp(),
     ),
@@ -114,6 +119,7 @@ class LucApp extends StatelessWidget {
             const DetailPlaceholderPage(title: 'Exam Result'),
         '/fees': (context) =>
             const DetailPlaceholderPage(title: 'Fee Payments'),
+        '/chatbot': (context) => const ChatbotPage(),
       },
     ));
   }

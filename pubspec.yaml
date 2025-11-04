@@ -46,6 +46,10 @@ dependencies:
   video_thumbnail: ^0.5.3
   video_player: ^2.8.6
 
+ # for the chatbot
+  string_similarity: ^2.0.0
+  google_generative_ai: ^0.2.2 # Use the latest version
+
 dev_dependencies:
   flutter_launcher_icons: ^0.14.4
 
@@ -72,6 +76,7 @@ flutter:
   assets:
     - .env
     - assets/images/
+    - assets/data/
 
 flutter_native_splash:
   color: "#160201"

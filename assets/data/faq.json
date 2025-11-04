@@ -1,0 +1,53 @@
+[
+    {
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, please go to the 'Forgot Password?' link on the login screen and follow the instructions sent to your registered email.",
+        "keywords": [
+            "password",
+            "reset",
+            "forgot",
+            "change",
+            "account",
+            "login",
+            "recover"
+        ]
+    },
+    {
+        "question": "What are the university's opening hours?",
+        "answer": "The main campus is open from 8:00 AM to 9:00 PM on weekdays and 9:00 AM to 5:00 PM on Saturdays. The campus is closed on Sundays and public holidays.",
+        "keywords": [
+            "hours",
+            "open",
+            "close",
+            "time",
+            "campus",
+            "working",
+            "schedule"
+        ]
+    },
+    {
+        "question": "How can I check my exam results?",
+        "answer": "You can view your exam results by navigating to the 'Exam Result' section on the main student dashboard.",
+        "keywords": [
+            "exam",
+            "result",
+            "grade",
+            "marks",
+            "score",
+            "see",
+            "check"
+        ]
+    },
+    {
+        "question": "Where can I find my class schedule?",
+        "answer": "Your personalized class schedule is available in the 'Schedule' section of the app. It shows your upcoming classes, timings, and locations.",
+        "keywords": [
+            "schedule",
+            "timetable",
+            "class",
+            "when",
+            "where",
+            "location"
+        ]
+    }
+]

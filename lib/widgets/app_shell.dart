@@ -94,7 +94,7 @@ class _AppShellState extends State<AppShell> with TickerProviderStateMixin {
       bottomNavigationBar: _buildAnimatedBottomNav(),
       floatingActionButton: _currentIndex == 0 && user?.role == UserRole.student
           ? FloatingActionButton(
-              onPressed: () {/* Navigate to Chatbot */},
+              onPressed: () => Navigator.pushNamed(context, '/chatbot'),
               backgroundColor: AppTheme.accentColor,
               child: const Icon(Icons.chat_bubble_outline, color: Colors.white),
             )
