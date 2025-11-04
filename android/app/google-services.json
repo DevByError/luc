@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30909310777",
+    "project_id": "luc-app-7fb78",
+    "storage_bucket": "luc-app-7fb78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30909310777:android:5496f9a3808dfa18592ae8",
+        "android_client_info": {
+          "package_name": "com.example.luc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRUBKqM-e52_PZAkbbC-o5iCmXwxgg-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

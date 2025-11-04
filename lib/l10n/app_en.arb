@@ -1,0 +1,61 @@
+{
+  "@@locale": "en",
+
+  "email": "Email",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "fullName": "Full Name",
+  "login": "Log In",
+  "signup": "Sign Up",
+  "createAccount": "Create Account",
+  "forgotPassword": "Forgot Password?",
+  "alreadyHaveAccount": "Already have an account? Log in",
+  "signupValidation": "Please fill all fields and use at least a 6-character password.",
+  "signupSuccessTitle": "Signup Successful!",
+  "signupSuccessBody": "Your account has been created successfully. Please log in to continue.",
+  "signupFailed": "Signup failed: {error}",
+  "@signupFailed": {
+    "placeholders": {
+      "error": {}
+    }
+  },
+  "welcome": "Welcome, {name}!",
+  "@welcome": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+
+  "resetPassword": "Reset Password",
+  "enterEmailReset": "Enter your email and we’ll send you a reset link.",
+  "sendResetLink": "Send Link",
+  "resetLinkSent": "Reset link sent!",
+  "checkInbox": "We’ve sent a link to your email to reset your password. Please check your inbox.",
+
+
+  "home": "Home",
+  "messages": "Messages",
+  "settings": "Settings",
+  "noNotifications": "No new notifications",
+  "dashboardPlaceholder": "Dashboard content goes here",
+  "messagesSoon": "Messages page coming soon",
+  "settingsSoon": "Settings page coming soon",
+  "logout": "Logout",
+  "profile": "Profile",
+
+
+  "chooseLanguage": "Choose Language",
+  "english": "English",
+  "malay": "Malay",
+  "arabic": "Arabic",
+  "bengali": "Bengali",
+  "chinese": "Chinese",
+
+
+  "return_": "Return",
+  "ok": "OK",
+  "accountCreated": "Account created successfully!",
+  "welcomePlatform": "Welcome",
+  "copyright": "All Copyrights Reserved. © LUC Malaysia 2025."
+}
