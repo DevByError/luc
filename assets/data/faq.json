@@ -1,46 +1,185 @@
 [
     {
-        "question": "How do I reset my password?",
-        "answer": "To reset your password, please go to the 'Forgot Password?' link on the login screen and follow the instructions sent to your registered email.",
+        "question": "Where is Lincoln University College located?",
+        "answer": "Lincoln University College’s main campus is at Wisma Lincoln, No. 12-18, Jalan SS 6/12, 47301 Petaling Jaya, Selangor Darul Ehsan, Malaysia. ",
+        "keywords": [
+            "location",
+            "campus",
+            "address",
+            "Petaling Jaya",
+            "Selangor",
+            "where",
+            "main campus"
+        ]
+    },
+    {
+        "question": "What is the phone number for the admissions office?",
+        "answer": "You can contact the admissions office at Lincoln University College via +603-7806 3478 (Malaysia hotline).}",
+        "keywords": [
+            "phone",
+            "admissions",
+            "contact",
+            "office",
+            "hotline",
+            "number"
+        ]
+    },
+    {
+        "question": "What are the office hours for the International Students Office?",
+        "answer": "The International Students Office at Lincoln University College operates Monday to Friday from 9:00 a.m. to 5:00 p.m. ",
+        "keywords": [
+            "office hours",
+            "international students",
+            "ISO",
+            "hours",
+            "Monday",
+            "Friday"
+        ]
+    },
+    {
+        "question": "How can I apply for an undergraduate programme?",
+        "answer": "To apply for an undergraduate programme at Lincoln University College, submit your online application via the university website, attach required academic transcripts and passport copy, then await the official offer letter.",
+        "keywords": [
+            "apply",
+            "undergraduate",
+            "application",
+            "programme",
+            "online",
+            "admission"
+        ]
+    },
+    {
+        "question": "What are the tuition fees for undergraduate programmes?",
+        "answer": "Tuition fees at Lincoln University College for undergraduate programmes vary depending on the course and student nationality; as a rough guide, fees start from approximately RM 10,000 to RM 25,000 per year. ",
+        "keywords": [
+            "tuition",
+            "fees",
+            "undergraduate",
+            "cost",
+            "per year",
+            "amount"
+        ]
+    },
+    {
+        "question": "Are scholarships available for international students?",
+        "answer": "Yes – Lincoln University College offers partial scholarships for eligible international students. Please contact the admissions office for details on eligibility and amounts.",
+        "keywords": [
+            "scholarship",
+            "international students",
+            "eligibility",
+            "amount",
+            "support"
+        ]
+    },
+    {
+        "question": "Which bus or train stops near the campus?",
+        "answer": "Public transportation is available near the Lincoln University College main campus — the campus is walking-distance from a bus stop and a nearby LRT station.",
+        "keywords": [
+            "transport",
+            "bus",
+            "train",
+            "LRT",
+            "how to get there",
+            "nearby"
+        ]
+    },
+    {
+        "question": "What is the student hostel monthly rate?",
+        "answer": "At Lincoln University College, the hostel accommodation rates for LUC students include: Single Room (Type A) at approx RM 700 per month, Twin‐sharing (Type B) at approx RM 500 per month. ",
+        "keywords": [
+            "hostel",
+            "accommodation",
+            "monthly rate",
+            "room",
+            "student housing"
+        ]
+    },
+    {
+        "question": "How many semesters are there in a year for most programmes?",
+        "answer": "For most programmes at Lincoln University College, there are 3 semesters per year (except for Nursing which has 2 semesters).",
+        "keywords": [
+            "semester",
+            "year",
+            "how many",
+            "programmes",
+            "academic calendar"
+        ]
+    },
+    {
+        "question": "How do I pay my international tuition fee?",
+        "answer": "International students may pay tuition fees via bank telegraphic transfer (TT) to the designated account of ASIA PACIFIC HIGHER LEARNING SDN BHD (Lincoln University College) – details specified in your offer letter.",
+        "keywords": [
+            "payment",
+            "international",
+            "tuition fee",
+            "telegraphic transfer",
+            "bank account"
+        ]
+    },
+    {
+        "question": "What documents are required for admission?",
+        "answer": "Documents required include academic transcripts, passport copy, recent photos, and any other supporting certificates – as specified in your offer letter from Lincoln University College. ",
+        "keywords": [
+            "documents",
+            "requirement",
+            "transcripts",
+            "passport",
+            "photos",
+            "supporting certificates"
+        ]
+    },
+    {
+        "question": "When are the intake sessions for programmes?",
+        "answer": "Lincoln University College offers multiple intakes each year – for instance January, May and September intakes are available.",
+        "keywords": [
+            "intake",
+            "sessions",
+            "start",
+            "January",
+            "May",
+            "September",
+            "admission"
+        ]
+    },
+    {
+        "question": "Is my programme approved by the Malaysian Qualifications Agency (MQA)?",
+        "answer": "Yes – all programmes at Lincoln University College are approved by the Malaysian Qualifications Agency (MQA) / Malaysian Qualifications Register (MQR). ",
+        "keywords": [
+            "MQA",
+            "approved",
+            "programme",
+            "accreditation",
+            "register"
+        ]
+    },
+    {
+        "question": "Where do I go to reset my password for the student portal?",
+        "answer": "To reset your password, go to the 'Forgot Password?' link on the Lincoln University College student portal login page and follow the instructions sent to your registered email address.",
         "keywords": [
             "password",
             "reset",
             "forgot",
-            "change",
-            "account",
+            "portal",
             "login",
-            "recover"
+            "account"
         ]
     },
     {
-        "question": "What are the university's opening hours?",
-        "answer": "The main campus is open from 8:00 AM to 9:00 PM on weekdays and 9:00 AM to 5:00 PM on Saturdays. The campus is closed on Sundays and public holidays.",
-        "keywords": [
-            "hours",
-            "open",
-            "close",
-            "time",
-            "campus",
-            "working",
-            "schedule"
-        ]
-    },
-    {
-        "question": "How can I check my exam results?",
-        "answer": "You can view your exam results by navigating to the 'Exam Result' section on the main student dashboard.",
+        "question": "How do I check my exam results?",
+        "answer": "You can view your exam results via the ‘Examination Unit’ section on the Lincoln University College portal or you may contact examination@lincoln.edu.my for assistance.",
         "keywords": [
             "exam",
-            "result",
+            "results",
             "grade",
             "marks",
-            "score",
-            "see",
-            "check"
+            "check",
+            "view",
+            "portal"
         ]
     },
     {
         "question": "Where can I find my class schedule?",
-        "answer": "Your personalized class schedule is available in the 'Schedule' section of the app. It shows your upcoming classes, timings, and locations.",
+        "answer": "Your personalized class schedule is available in the 'Schedule' section of the Lincoln University College student app/portal – it shows your upcoming classes, timings and venues.",
         "keywords": [
             "schedule",
             "timetable",
@@ -48,6 +187,49 @@
             "when",
             "where",
             "location"
+        ]
+    },
+    {
+        "question": "How do I apply for a student visa as an international student?",
+        "answer": "Once you have your offer letter from Lincoln University College, student visa application via the Education Malaysia Global Services (EMGS) is required – pay the visa processing fee and submit required documentation. ",
+        "keywords": [
+            "student visa",
+            "international",
+            "EMGS",
+            "apply",
+            "visa processing"
+        ]
+    },
+    {
+        "question": "Can I pay my second‐year fees by installment?",
+        "answer": "Yes – at Lincoln University College international students may pay second-year fees by semester instalments if they meet criteria like CGPA ≥ 2.0, clean account record and at least 90% attendance.",
+        "keywords": [
+            "installment",
+            "second year",
+            "fees",
+            "semester",
+            "payment plan"
+        ]
+    },
+    {
+        "question": "What happens if a programme is discontinued due to insufficient students?",
+        "answer": "If a programme at Lincoln University College is cancelled due to low enrolment, students will be informed and alternative arrangements will be offered. (Students are advised to check the official policy) ",
+        "keywords": [
+            "programme cancelled",
+            "insufficient students",
+            "discontinued",
+            "policy",
+            "alternative"
+        ]
+    },
+    {
+        "question": "How do I contact the Student Affairs Department?",
+        "answer": "You can email the Student Affairs Department of Lincoln University College at inso@lincoln.edu.my or iam@lincoln.edu.my.",
+        "keywords": [
+            "student affairs",
+            "contact",
+            "email",
+            "department"
         ]
     }
 ]

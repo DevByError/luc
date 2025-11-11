@@ -19,6 +19,13 @@ import 'package:luc/pages/profile/student_profile_page.dart';
 import 'package:luc/pages/profile/lecturer_profile_page.dart';
 import 'package:luc/pages/profile/admin_profile_page.dart';
 
+//student pages imports
+import 'package:luc/pages/dashboard/student_pages/my_program_page.dart';
+import 'package:luc/pages/dashboard/student_pages/exam_result_page.dart';
+import 'package:luc/pages/dashboard/student_pages/fees_page.dart';
+import 'package:luc/pages/dashboard/student_pages/exam_slip_page.dart';
+import 'package:luc/pages/dashboard/student_pages/attendance_page.dart';
+
 // Service Imports
 import 'package:luc/services/auth_service.dart';
 import 'package:luc/services/data_service.dart';
@@ -101,8 +108,7 @@ class LucApp extends StatelessWidget {
             const PlaceholderPage(title: 'Notifications', navIndex: 2),
         '/classes': (context) =>
             const PlaceholderPage(title: 'Classes', navIndex: 3),
-        '/my_program': (context) =>
-            const DetailPlaceholderPage(title: 'My Program'),
+        '/my_program': (context) => const MyProgramPage(),
         '/subject_register': (context) =>
             const DetailPlaceholderPage(title: 'Subject Registration'),
         '/schedule': (context) =>
@@ -111,14 +117,10 @@ class LucApp extends StatelessWidget {
             const DetailPlaceholderPage(title: 'Study Materials'),
         '/assignment': (context) =>
             const DetailPlaceholderPage(title: 'Assignment'),
-        '/attendance': (context) =>
-            const DetailPlaceholderPage(title: 'Attendance'),
-        '/exam_slip': (context) =>
-            const DetailPlaceholderPage(title: 'Exam Slip'),
-        '/exam_result': (context) =>
-            const DetailPlaceholderPage(title: 'Exam Result'),
-        '/fees': (context) =>
-            const DetailPlaceholderPage(title: 'Fee Payments'),
+        '/attendance': (context) => const AttendancePage(),
+        '/exam_slip': (context) => const ExamSlipPage(),
+        '/exam_result': (context) => const ExamResultPage(),
+        '/fees': (context) => const FeesPage(),
         '/chatbot': (context) => const ChatbotPage(),
       },
     ));
